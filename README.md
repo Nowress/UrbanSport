@@ -1,4 +1,4 @@
-- [x] Navbar T
+- [ ] Navbar T
 - [ ] EventSection T
 - [ ] Offres Y
 - [ ] Schedule T
